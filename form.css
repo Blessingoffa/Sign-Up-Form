@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+
+}
+form{
+    width: fit-content;
+    margin: auto;
+    background-color: burlywood;
+    border-radius: 1px;
+
+}
+.des{
+    display: flex;
+    gap: 20px;
+}
